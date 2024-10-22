@@ -15,6 +15,10 @@ const MODELS = {
         vertexName: "claude-3-5-sonnet@20240620",
         region: "us-east5",
     },
+    "claude-3-5-sonnet-v2": {
+        vertexName: "claude-3-5-sonnet-v2@20241022",
+        region: "us-east5",
+    },
     "claude-3-opus-20240229": {
         vertexName: "claude-3-opus@20240229",
         region: "us-east5",
@@ -29,6 +33,10 @@ const MODELS = {
     },
     "claude-3-5-sonnet-20240620": {
         vertexName: "claude-3-5-sonnet@20240620",
+        region: "us-east5",
+    },
+    "claude-3-5-sonnet-v2-20241022": {
+        vertexName: "claude-3-5-sonnet-v2@20241022",
         region: "us-east5",
     },
 };
